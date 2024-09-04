@@ -1,5 +1,5 @@
 <h1 align="center">Hii 👋, I'm Subham Chakraborty</h1>
-<h3 align="center">An aspiring Data Scientist || Problem-solving || Analytics || Neuroscience enthuciast</h3>
+<h3 align="center">An aspiring Data Scientist || Problem-solving || Analytics || Neuroscience enthusiast</h3>
 
 - 🌱 I’m currently learning **Deep Learning, Computer Vision, Quantitative Finance**
 
