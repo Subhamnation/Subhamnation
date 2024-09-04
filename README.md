@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Deep Learning, Computer Vision, Quantitative Finance**
 
-- 👨‍💻 All of my projects are available at [www.linkedin.com/in/subham-chakraborty-2b1479138](www.linkedin.com/in/subham-chakraborty-2b1479138/)
-
 - 💬 Ask me about **Python,MATLAB,Data Science,Image Processing**
 
 - 📫 How to reach me **subhamnation123@gmail.com**
