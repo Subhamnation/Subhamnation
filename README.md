@@ -1,5 +1,6 @@
 <h1 align="center">Hii 👋, I'm Subham Chakraborty</h1>
 <h3 align="center">An aspiring Data Scientist || Problem-solving || Analytics || Neuroscience enthusiast</h3>
+<img src = "https://neurosciencenews.com/files/2018/06/brain-mapping-ai-neurosciencneews.gif" width = '450px' align = 'right' alt = "">
 
 - 🌱 I’m currently learning **Deep Learning, Computer Vision, Quantitative Finance**
 
@@ -20,3 +21,12 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=subhamnation&show_icons=true&locale=en" alt="subhamnation" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subhamnation&" alt="subhamnation" /></p>
+
+<p>
+  Bye Bye. Thanks for looking into my profile. Thank you.
+</p>
+
+<p>
+ <img src = "https://miro.medium.com/v2/resize:fit:1120/1*oZjtmox-nEmcnW1NV5GVbw.gif" align = 'center' alt = "">
+ 
+</p>
