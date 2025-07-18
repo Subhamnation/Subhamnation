@@ -1,5 +1,5 @@
 <h1 align="center">Hii 👋, I'm Subham Chakraborty</h1>
-<h3 align="center">An aspiring Data Scientist || Problem-solving || Analytics || Neuroscience enthusiast</h3>
+<h3 align="center"> Data Science || Computer Vision || Problem-solving || Analytics || Neuroscience enthusiast</h3>
 <img src = "https://neurosciencenews.com/files/2018/06/brain-mapping-ai-neurosciencneews.gif" width = '450px' align = 'right' alt = "">
 
 - 🌱 I’m currently learning **Deep Learning, Computer Vision, Quantitative Finance**
@@ -10,7 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/subham-chakraborty-2b1479138" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/subham-chakraborty-2b1479138" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/subham-chakraborty-2b1479138/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/subham-chakraborty-2b1479138" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
